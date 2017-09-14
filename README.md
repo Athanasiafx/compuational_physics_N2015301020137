@@ -9,7 +9,7 @@
 - [ ] [Exercise_07:Chapter 2 problem 2.19:The spin of baseball and Visual motion of baseball](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_07:Chapter%202%20problem%202.19:The%20spin%20of%20baseball%20and%20Visual%20motion%20of%20baseball)
 - [ ] [Exercise_08:Chapter 3 problem 3.4:Non-linear oscillator](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_08:Chapter%203%20problem%203.4:Non-linear%20oscillator)
 - [ ] [Exercise_09:Chapter 3 problem 3.16:Strange attractor](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09:Chapter%203%20problem%203.16:Strange%20attractor)
-- [ ] [Exercise_10:Chapter 3 problem 3.31:Billiard ball on diverse table]
+- [ ] [Exercise_10:Chapter 3 problem 3.31:Billiard ball on diverse table](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_10:Chapter%203%20problem%203.31:Billiard%20ball%20on%20diverse%20table)
 - [ ] [Exercise_11:Chapter 4 problem 4.11:The percession of Mercury]
 - [ ] [Exercise_12:Chapter 4 problem 4.18:The Kirkwood Gap]
 - [ ] [Exercise_13:Chapter 5 problem 5.7:The Jacobi method v.s.The SOR algorithm]  
