@@ -2,6 +2,7 @@
 计算物理15级物基二班方昕
 # Homework List
 - [x] [Exercise_02:Name](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_02:Name)     
+- [x] [Exercise_02+:Name](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_02%2B:Name)
 - [ ] [Exercise_03:All levels](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_03:All%20levels)     
 - [ ] [Exercise_04:Chapter 1 problem 1.5:The decay of two kinds of particles](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_04:Chapter%201%20problem%201.5:The%20decay%20of%20two%20kinds%20of%20particles) 
 - [ ] [Exercise_05:Chapter 1 problem 1.6:Population growth](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_05:Chapter%201%20problem%201.6:Population%20growth)
