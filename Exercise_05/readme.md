@@ -19,3 +19,4 @@ $$\frac{dv_{z}}{dt}=-\frac{S_{0}v_{x}\omega }{m}$$
 通过matplotlib模拟运行轨迹
 假设棒球半径为0.1m并且角速度为2000rpm，沿着X轴正方向运动，初速度为31m/s。
 运行代码，用matplotlib得到在三维情况下的运行轨迹如图,其中红色为 起始位置，黑色为最终位置:
+![battedball](https://pan.baidu.com/s/1nv9R2kD)
