@@ -43,4 +43,22 @@ r=25
 
 ![r25](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_07/r25.png)
 
+![25](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_07/3d.png)
+
+相空间截面图
+
+![nothing](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_07/x0.png)
+![nothing2](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_07/y0.png)
+
+我们从图中看到，即使行为是混乱的，在相空间轨迹中也有很高的规律性。这个吸引子表面实际上是初始条件的独立的，因此我们可以预测系统将在相空间中找到。
+
+### 4 [代码](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_07/code.py)
+
+### 5、结论
+
+本文将欧拉法应用于洛伦兹模型，探讨了从稳态对流态向混沌态的过渡过程。
+转折点在r =25左右。
+此外，还绘制了相空间图及其二维切片，这意味着混沌下的正则性。
+它可以用于预测系统在相空间的吸引子表面的位置。
+
 
