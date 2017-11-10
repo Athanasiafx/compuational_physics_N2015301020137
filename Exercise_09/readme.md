@@ -7,3 +7,8 @@ Study the behavior for other types of tables.One interesting possibility is a sq
 ![1-3](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/eg13.png)
 ## 2、公式
 因为不考虑摩擦损耗，小球的碰撞可以看做是完全弹性的，此时速度不变。所以有
+![fomula1](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/fomula1.png)
+![fomula2](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/fomula2.png)
+![fomula3](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/fomula3.png)
+### 3、计算机模拟
+本实验通过Vpython模拟。
