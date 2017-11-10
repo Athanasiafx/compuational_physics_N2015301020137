@@ -15,21 +15,18 @@ Study the behavior for other types of tables.One interesting possibility is a sq
 
 ### 3、计算机模拟
 > 本实验通过Vpython模拟。
+
 > (1) 圆形边界
 > ![gif1](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/gif1.gif)
-
 > 平面图
-![pingmian](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/pingmian.png)
-
+> ![pingmian](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/pingmian.png)
 > 在y=0扫描的相空间图像
-![xkj](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/y0xkj.png)
+> ![xkj](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/y0xkj.png)
+> 可见轨迹是对称的，是一个周期性系统而不是混沌系统。
 
-可见轨迹是对称的，是一个周期性系统而不是混沌系统。
-
-  (2) 圆环形边界
-![huan](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/yuanhuan.png)
-
-仍是一个周期性系统。
+> (2) 圆环形边界
+> ![huan](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/yuanhuan.png)
+> 仍是一个周期性系统。
 
 ## 4、[代码](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/code1.py)
 
