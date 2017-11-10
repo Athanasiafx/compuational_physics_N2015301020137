@@ -7,4 +7,4 @@
 - [x] [Exercise_03: Chapter 1 problem 1.1](https://github.com/Athanasiafx/compuational_physics_N2015301020137/tree/master/Exercise_03)第一章六道习题任选一题完成      
 - [ ]Exercise_04:P31
 - [x] [Exercise_05: Chapter 2 problem 2.19:The spin of baseball and Visual motion of baseball](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_05/readme.md)
-
+- [x] [Exercise_07:Chapter 3 problem 3.26:Lorenz model](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_07/readme.md)
