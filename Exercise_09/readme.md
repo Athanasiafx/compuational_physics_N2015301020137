@@ -8,7 +8,31 @@ Study the behavior for other types of tables.One interesting possibility is a sq
 ## 2、公式
 因为不考虑摩擦损耗，小球的碰撞可以看做是完全弹性的，此时速度不变。所以有
 ![fomula1](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/fomula1.png)
+
 ![fomula2](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/fomula2.png)
+
 ![fomula3](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/fomula3.png)
+
 ### 3、计算机模拟
 本实验通过Vpython模拟。
+(2) 圆形边界
+![gif1](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/gif1.gif)
+
+平面图
+![pingmian](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/pingmian.png)
+
+在y=0扫描的相空间图像
+![xkj](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/y0xkj.png)
+
+可见轨迹是对称的，是一个周期性系统而不是混沌系统。
+
+(2) 圆环形边界
+![huan](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/yuanhuan.png)
+
+仍是一个周期性系统。
+
+## 4、[代码](https://github.com/Athanasiafx/compuational_physics_N2015301020137/blob/master/Exercise_09/code1.py)
+
+## 5、结论
+当桌面对称性很大的时候桌球周期性比较明显
+
